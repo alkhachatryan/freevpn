@@ -1,5 +1,4 @@
-# FreeVPN by C3ph3i
-
+# FreeVPN 
 VPN client using VPN access from http://vpnbook.com/
 
 # Requirements
